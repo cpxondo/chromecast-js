@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/guerrerocarlos/chromecast-js.git"
+    "url": "https://github.com/cpxondo/chromecast-js.git"
   },
   "keywords": [
     "chromecast",
@@ -15,16 +15,16 @@
     "torrentv"
   ],
   "author": {
-    "name": "Carlos Guerrero",
-    "email": "guerrerocarlos@gmail.com"
+    "name": "cpxondo",
+    "email": "cpxondo@gmail.com"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guerrerocarlos/chromecast-js/issues"
+    "url": "https://github.com/cpxondo/chromecast-js/issues"
   },
-  "homepage": "https://github.com/guerrerocarlos/chromecast-js",
+  "homepage": "https://github.com/cpxondo/chromecast-js",
   "dependencies": {
-    "castv2-client": "0.0.8",
+    "castv2-client": "^1.1.0",
     "debug": "^1.0.4",
     "node-ssdp": "^2.0.1"
   }
