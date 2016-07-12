@@ -1,6 +1,6 @@
 {
   "name": "chromecast-js",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Chromecast/Googlecast streaming module all in JS",
   "main": "index.js",
   "repository": {
@@ -11,8 +11,7 @@
     "chromecast",
     "googlecast",
     "stream",
-    "streaming",
-    "torrentv"
+    "streaming"
   ],
   "author": {
     "name": "cpxondo",

@@ -1,5 +1,5 @@
 var Client                = require('castv2-client').Client;
-var DefaultMediaReceiver  = require('castv2-client').DefaultMediaReceiver;
+var DefaultMediaReceiver  = require('./custom-media-receiver');
 var events = require('events');
 var util = require('util');
 var debug = require('debug')('Device');
